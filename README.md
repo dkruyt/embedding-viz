@@ -1,5 +1,3 @@
-Sure! Here is the updated README with embedded example output images:
-
 # Embedding Visualization with t-SNE
 
 This project visualizes BERT embeddings using t-SNE for dimensionality reduction. It supports both 2D and 3D visualizations and can save plots and animations.
