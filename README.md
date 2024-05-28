@@ -82,7 +82,8 @@ The script generates the following files in the specified output directory:
 ![3D t-SNE Plot](save/tsne_3d.png)
 
 #### Rotation Animation
-![Rotation Animation](save/rotation_animation.mp4)
+![Rotation Animation](https://github.com/dkruyt/embedding-viz/assets/713812/ed71838f-a09b-4340-b4a8-899a9ec8b8ec)
+
 
 ## Example
 
