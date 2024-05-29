@@ -27,7 +27,7 @@ tested with Python 3.11
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ydkruyt/embedding-viz.git
+   git clone https://github.com/dkruyt/embedding-viz.git
    cd embedding-viz
    ```
 
